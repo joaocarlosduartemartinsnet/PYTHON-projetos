@@ -1,1 +1,1 @@
-# PYTHON-da-solidy
+# PYTHON
